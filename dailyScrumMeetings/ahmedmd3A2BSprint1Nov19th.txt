@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Completed redirect for cat command
+    - Completed redirect for history command
+
+What do I plan to work on in the next three days?
+    - add redirect to all STDOUT commands
+    - test for bugs in these commands after implementation
+
+Am I blocked on anything?
+    - Having difficulties with handling user input that has the redirect symbols and handling outputs that need to be redirected 

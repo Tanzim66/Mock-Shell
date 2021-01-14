@@ -1,0 +1,20 @@
+Class name: ChangeDirectory
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Removes a directory along with all its children.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*JShell
+*Output
+*PathHandler

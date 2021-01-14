@@ -1,0 +1,31 @@
+Class name: Search
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Searches for all directories or files that have the given name in one or more 
+ given paths and obtain the paths to all instances.
+
+*Prints an error message for any invalid arguments or invalid paths and stop 
+ the search.
+
+*Redirects the paths to all the files and directories that have the given name 
+ to the contents of a file.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File
+*JShell
+*Output
+*PathHandler
+*Redirection
+*UserInput
+

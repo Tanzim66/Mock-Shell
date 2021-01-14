@@ -1,0 +1,23 @@
+Class name: Redirection
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Overwrites contents of existing files with the output produced by certain 
+ commands.
+ 
+*Appends the output produced by certain commands to the contents of existing 
+ files.
+
+*Create a file containing the output if the file does not exist.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File

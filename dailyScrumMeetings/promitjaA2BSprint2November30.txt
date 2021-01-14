@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - A lot of bug fixes on everything
+    - JUnit Testing
+    - Cleaned up code
+What do I plan to work in the next three days?
+    - N/A, Assignment is finished.
+
+Am I blocked on anything?
+    - N/A

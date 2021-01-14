@@ -1,0 +1,35 @@
+Class name: List
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Prints the path then contents of the directory if a directory is specified.
+
+*Prints only the path if a file is specified.
+
+*Prints an error message if given path does not exist. 
+
+*Prints the contents of the current directory if no path is given. 
+
+*Prints the contents of a directory as well as the contents of all of its
+ sub-directories if requested by user.
+
+*Redirects the contents of the item that are supposed to be printed to the 
+ content of a file.
+
+   
+Collaborators:
+*CurrentDirectory
+*Directory
+*JShell
+*Output
+*PathHandler
+*Redirection
+*UserInput
+*File

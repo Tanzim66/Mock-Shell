@@ -1,0 +1,77 @@
+//Sprint 1 Backlog for A2B.  
+November 16 to November 22
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) 1 - As a user, I can append the output produced by certain commands to the existing content of a file I specify instead of displaying the output on the console.
+b) 2 - As a user, I can overwrite the content of a file I specify with the output produced by certain commands instead of displaying the output on the console.
+c) 3 - As a user, I can create a new file and redirect the output produced by certain commands to its content if the file I specify does not exist.
+d) 4 - As a user, I should not be able to redirect any errors produced by certain commands to a file and all errors must still be displayed on the console.
+e) 5 - As a user, I should not be able to redirect any commands that do not give any output and if I do, I should receive an error message and the command should not execute.
+f) 6 - As a user, I can remove a directory I specify as well as all the children of that directory from the file system.
+g) 7 - As a user, I can now pass in any number of arguments to make as many directories as I specify until I hit the first invalid argument.
+h) 8 - As a user, I can now specifically request to list all contents of the directories I specify as well as the contents of their child.
+i) 9 - As a user, I can now specifically request to list all contents of current directory as well as the contents of its child if I do not specify a directory to list contents of.
+j) 10 - As a user, I can move a file into a directory based on the paths I specify.
+k) 11 - As a user, I can move a directory and its contents into another directory based on the paths I specify.
+l) 12 - As a user, I can rename the existing directory to the name of the new directory if I try to move a directory to another directory that does not exist based on the paths I specify.
+m) 13 - As a user, I should get a proper error message if I try to move a file to a directory that does not exist based on the paths I specify.
+n) 14 - As a user, I can rename the existing file to the name of the new file if I try to move a file to another file that does not exist based on the paths I specify.
+o) 15 - As a user, I can overwrite another file to the file I am moving if I try to move a file to another existing file based on the paths I specify.
+p) 16 - As a user, I should get a proper error message if I try to move a file or directory that does not exist.
+q) 17 - As a user, I can create a copy of a file inside a directory based on the paths I specify.
+r) 18 - As a user, I can create a copy of a directory and its contents inside another directory based on the paths I specify.
+s) 19 - As a user, I can overwrite the content of another file with the content of the file I am copying if I try to copy a file to another existing file based on the paths I specify.
+t) 20 - As a user, I can create a copy of the file inside the given path to the new file if I try to copy a file to a new file that does not exist based on the paths I specify.
+u) 21 - As a user, I should get a proper error message if I try to copy a directory to a file based on the paths I specify.
+v) 22 - As a user, I should get a proper error message if I try to copy a directory or file that does not exist.
+
+Specific tasks to be accomplished:
+a-1. (Redirection) Begin by identifying the commands which need to be redirected for append
+a-2. (Redirection) Write the code which allows the commands to be redirected for append
+b-1. (Redirection) Begin by identifying the commands which need to be redirected for overwrite
+b-2. (Redirection) Write the code which allows the commands to be redirected for overwrite
+c-1. (Redirection) Begin by identifying the commands which need to be redirected to create a new file if a specified file does not exist
+c-2. (Redirection) Write the code which allows the commands to be redirected to create a new file if a specified file does not exist
+d-1. (Redirection) Write or modify the code so that redirections of errors are not allows and displayed on the console
+e-1. (Redirection) Write or modify the code so that commands which do not allow for redirection will not execute
+e-2. (Redirection) Write or modify the code so that commands which ask for redirection when not allowed will produce an error message
+f-1. (Remove) Write the code which allows the user to remove a directory as well as all its children from the file system
+g-1. (MakeDirectory) Write the code which allows the user to enter and create as many directories as the user wants
+g-2. (MakeDirectory) Write or modify the code to ensure that the creation of directories stop when the first invalid argument is given
+h-1. (List) Write the code so that the user is able to list all contents of the directories as well as the contents of their child
+i-1. (List) Write the code so that the user is able to list all the contents of a current directory as well as all the contents of its child when a directory is not specified
+j-1. (Move) Start by writing the base code for Move class
+j-2. (Move) Write the code which enables a file to be moved into a directory given a path
+k-1. (Move) Write the code which allows the user to move a directory and its contents into another directory given a path
+l-1. (Move) Write the code which allows the user to rename an existing directory given that the path specified does not exist
+m-1. (Move) Write the code to ensure that an error message is given when the user attempts to move a file to a directory that does not exist
+n-1. (Move) Write the code which allows the user to rename an existing file to a given new file if an attempt to move a file into another file does not exist as a path
+o-1. (Move) Write the code which allows the user to overwrite another file to the file being moved if the user tries to move a file to another existing file
+p-1. (Move) Write the code which informs the user with an error message if a file or directory that does not exist is being moved
+q-1. (Copy) Start by writing the base code for Copy class
+q-2. (Copy) Write the code which allows the user to create a copy of a file inside a directory given a path
+r-1. (Copy) Write the code which allows the user to copy a directory and its contents inside another directory given a path
+s-1. (Copy) Write the code which allows the user to overwrite the content of another file with the content of a copied file if the user tries to copy a file to another existing file
+t-1. (Copy) Write the code which allows the user to create a copy of a file inside a given path and create a new file from it if the user tries to copy a file to a given file which does not exist
+u-1. (Copy) Write the code that gives an error message if the user tries to copy a directory to a file given a path
+v-1. (Copy) Write the code that gives an error message if the user tries to copy a directory or file that does not exist
+w-1. (Output) Write the output, including both success prompts and error prompts, anytime a command needs to provide feedback
+x-1. (CRC) Update CRC cards
+y-1. (JShell) Add any new commands to HashMap and debug any issues found
+z-1. (UserInput) Write code which deals with ">" and ">>" for redirection purposes
+
+
+These tasks are assigned as follows:
+
+User: Tanzim Ahmed
+Tasks: a, b, c, d, e, w, x, y, z
+
+User: Brandon Ho Lun Lo
+Tasks: f, g, h, i, w, x, y
+
+User: Jahin Sadid Promit
+Tasks: j, k, l, m, n, o, p, w, x, y
+
+User: Ka Fai Yuen
+Tasks: q, r, s, t, u, v, w, x, y

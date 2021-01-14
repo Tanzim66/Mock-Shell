@@ -1,0 +1,75 @@
+//Sprint 2 Backlog for A2B.  
+November 23 to November 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) 23 - As a user, I can give the program an URL to a file and get back a file with the same name and same content in my current directory.
+b) 24 - As a user, I can input an URL to a file with the same name as a file in my current directory and receive an error message back.
+c) 25 - As a user, I can input an URL that does not exist and receive an error message back.
+d) 26 - As a user, I can should only be allowed to input one URL at a time.
+e) 27 - As a user, I can only look at the manual of one command at a time.
+f) 28 - As a user, I can save the current shell's state in my system if I give a valid directory.
+g) 29 - As a user, I can input an invalid directory to save the state of my shell and receive an error message back, not saving the shell.
+h) 30 - As a user, I can input a valid directory to save my shell and if it exists, overwrite the existing file.
+i) 31 - As a user, if I try to load a session from an invalid file I should receive an error message back.
+j) 32 - As a user, if I load a session from a valid file I should get back the saved data from the shell.
+k) 33 - As a user, if I input commands then try to load a session I should receive an error message back.
+l) 34 - As a user, I can input a directory followed by the type 'f' for file followed by the name of the file I would like to find, 
+        and get back a list of full paths to all the files that have the name I have searched for inside the given directory 
+        and all other non-direct directories inside the given directory. 
+m) 35 - As a user, I can input a directory followed by the type 'd' for directory followed by the name of the directory I would like to find, 
+        and get back a list of full paths to all the directories that have the name I have searched for inside the given directory 
+        and all other non-direct directories inside the given directory.
+n) 36 - As a user, I can input multiple directories for the program to search for my file or directory in
+o) 37 - As a user, I can input directories that are relative to my current directory or a full path to a directory for the program to perform search on
+p) 38 - As a user, I can input directories that are invalid or do not exist and have the program perform a search on the directories up to the first invalid directory 
+        and get an error message prompted back.
+q) 39 - As a user, if I do not indicate the type and the name of the thing I am searching for or the directory(s) that I want to search in, I should get an error back.
+r) 40 - As a user, I can redirect the output of my search to a file using > followed by the file path to overwrite the file or >> followed by the file path 
+        to append the file with the output of search. If the file does not exist, it should create the file in the given directory. 
+        The output of the search should not be displayed to me.
+s) 41 - As a user, I can display the entire file system as a tree diagram starting from the root directory.
+t) 42 - As a user, I should get an error message if I input any argument for the tree command because the tree command takes in no input parameter.
+
+Specific tasks to be accomplished:
+a-1. (URL) Begin by writing the base code for the URL class
+a-2. (URL) Write the code which allows the user to input a URL and get back that file with the same name and content in the current directory
+b-1. (URL) Write the code which ensures that if the user inputs a URL that leads to a file with the name name as a file in the current directory, then it prints an error message
+c-1. (URL) Write the code which ensures that if the user inputs a URL that does not exist, then it prints an error message
+d-1. (URL) Write the code which ensures that only one URL can be inputted by the user at a time
+e-1. (Manual) Write or modify the code which ensures that the user can only look at the manual of one command
+f-1. (SaveJShell) Begin by writing the base code for SaveJShell
+f-2. (SaveJShell) Write the code which allows the user to save the shell's current state
+g-1. (SaveJShell) Write the code which prompts an error message if an invalid path was given to save the shell state
+h-1. (SaveJShell) Write the code which overwrites an existing file if the user chooses to save the shell given the path to the existing file
+i-1. (LoadJShell) Begin by writing the base code for LoadJShell
+i-2. (LoadJShell) Write the code which prompts an error message if the user tries to load a session from an invalid file
+j-1. (LoadJShell) Write the code which obtains the saved JShell session if a valid file was provided by the user
+k-1. (LoadJShell) Write the code which disables the ability for the user to load the JShell if any commands were entered previously
+l-1. (Search) Begin by writing the base code for the Search class
+l-2. (Search) Write the code which when the user inputs the type 'f' for file, it produces the corresponding search requirements
+m-1. (Search) Write the code which when the user inputs the type 'd' for directory, it produces the corresponding search requirements
+n-1. (Search) Write the code which allows the user to input multiple directories to search inside of
+o-1. (Search) Write the code which allows the user to input directories that are from either a relative or full path to perform the search on
+p-1. (Search) Write the code which performs the search on given directories up to the first invalid directory
+q-1. (Search) Write the code which gives the user an error prompt if the type of search was not indicated by the user
+r-1. (Redirection) Write the code which allows the user to redirect the output of search with '>' or '>>'
+s-1. (Tree) Write the code which allows the user to display the entire file system as a tree starting from the root directory
+t-1. (Tree) Write the code which provides the user with an error prompt if any extra input parameters were given by the user
+u-1. (CRC) Create or modify CRC cards
+v-1. (JUnit) Create JUnit tests for commands
+
+
+These tasks are assigned as follows:
+
+User: Brandon Ho Lun Lo
+Tasks: a, b, c, d, e, u, v
+
+User: Jahin Sadid Promit
+Tasks: f, g, h, i, j, k, u, v
+
+User: Tanzim Ahmed
+Tasks: l, m, n, o, p, q, r, u, v
+
+User: Ka Fai Yuen
+Tasks: s, t, u, v

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed List command
+    - Finished PrintWorkingDirectory
+    - Worked on Output, added a few general errors
+
+What do I plan to work in the next three days?
+    - Integrate Error messages to List
+    - Create more specific Errors to commands in Output
+
+Am I blocked on anything?
+    - Need userinput to completely work with inputs in order to improvise List iterations

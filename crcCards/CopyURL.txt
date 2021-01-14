@@ -1,0 +1,20 @@
+Class name: ClientURL
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Retrieves file from an URL and add it to the current working directory.
+
+
+Collaborators:
+*CurrentDirectory
+*JShell
+*Output
+*PathHandler
+

@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+	- Worked on user stories for echo
+	- Created CRC cards
+
+What do I plan to work in the next three days?
+	- Complete the structure of retrieving user inputs
+	- Complete the methods for the Command class 
+	- Start and finish the Exit class
+
+Am I blocked on anything?  
+	- Not yet

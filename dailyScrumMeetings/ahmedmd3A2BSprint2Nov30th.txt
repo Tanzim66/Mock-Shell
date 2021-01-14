@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Added String returns in commands to allow for testing
+    - Completed JUnit testing for cat, search, redirection, echo
+    - Fixed some bugs
+
+What do I plan to work on in the next three days?
+    - Nothing
+
+Am I blocked on anything?
+    - None

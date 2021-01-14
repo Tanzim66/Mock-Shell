@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Updated Copy class for better implementations
+    - Changed Tree class so that it returns a string for JUnit testing
+    - Completed JUnit testing for Copy and Tree
+    - Added JavaDoc and in line comments to all classes
+    - Created and completed the CRC cards for all classes
+
+What do I plan to work on in the next three days?
+    - Nothing, the assignment has been completed
+
+Am I blocked on anything?
+    - No
+    
+    

@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Finished creating the Directory class
+    - Finished creating the File class
+    - Implemented a way to organize directories and files
+    - Created functions to find directories or files given a path
+    - Finished MakeDirectory class and functionality
+    - Created error messages for user input and MakeDirectory class
+
+What do I plan to work on in the next three days?
+    - Verify and debug existing code such as functions in PathHandler
+    - Work on new class for sprint 2
+        - start and finish PushDirectory functionality
+
+Am I blocked on anything?
+    - None as of now

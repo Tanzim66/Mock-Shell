@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Moved all the parameter requirements specific to a command inside the appropriate command class
+    - Changed all the input variables of the functions executeCommand() to be the same so that we can change the design
+    so that Command class is the parent abstract class with one function executeCommand that we can call from any of the other command classes.
+    - Tested and fixed many bugs
+    - Worked on History class and Echo class
+    
+What do I plan to work in the next three days?
+    - Finished project
+
+Am I blocked on anything?
+    - Not blocked yet

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Discussed with team members on the design on how to implement the Echo command
+    - Checked over existing code and took note of any possible design flaws
+    - Brain-stormed ideas for making better design choices in our code
+
+What do I plan to work on in the next three days?
+    - Create a hash map for JShell commands
+    - Work on finishing EchoAppend
+    - Modify existing code to allow for better design choices
+    - Add Javadoc to existing code
+    - Add inline comments to existing code
+
+Am I blocked on anything?
+    - None

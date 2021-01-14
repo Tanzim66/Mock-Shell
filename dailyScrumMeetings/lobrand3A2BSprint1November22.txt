@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Discussed with team members on how to redesign our code to implement redirection
+    - Helped out other team members with implementing their tasks by describing to them how our design works
+    - Fixed typos, error prompts, and the format of our code
+
+What do I plan to work on in the next three days?
+    - Start on the tasks for Sprint 2
+        - Start on URL class
+        - Modify code for Manual class
+    - Start JUnit testing for existing commands
+
+Am I blocked on anything?
+    - None as of yet

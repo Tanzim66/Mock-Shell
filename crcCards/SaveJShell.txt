@@ -1,0 +1,21 @@
+Class name: SaveJShell
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Saves the current shell session in a file on user's computer.
+
+*If the file already exists on user's computer, overwrite it with the current 
+ shell session.
+
+
+Collaborators:
+*JShell
+*Output
+

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Finished the code for Move (mostly)
+    - Changed a bit of copy so it collaborates with move
+What do I plan to work in the next three days?
+    - Clean up the design for both move and copy so there is less duplicate code
+    - Create the code for removing files
+
+Am I blocked on anything?
+    - N/A

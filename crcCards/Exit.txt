@@ -1,0 +1,16 @@
+Class name: Exit
+
+
+Parent class (if any):
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Quits the shell program.
+
+
+Collaborators: 
+*JShell

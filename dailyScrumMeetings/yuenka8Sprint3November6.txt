@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+	- Thought about how to design the EchoOverwrite class
+	- Added JavaDoc to EchoOverwrite 
+
+What do I plan to work in the next three days?
+	- Complete EchoOverwrite
+	- Update methods in the History class for better design
+	- Add in line comments and documentations for classes
+	- Update CRC cards if necessary
+
+
+Am I blocked on anything?  
+	- No

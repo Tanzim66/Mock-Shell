@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Fixed bugs with List
+    - Tested all the functions
+    - Discussed changing the design to make it look better with team
+
+What do I plan to work in the next three days?
+    - Nothing, shell should be done
+
+Am I blocked on anything?
+    - Nope, everything collaborates with each other as wanted

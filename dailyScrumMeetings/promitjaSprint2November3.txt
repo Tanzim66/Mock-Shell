@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Made List take in as many paths rather than maximum 1
+    - Finished PopDirectory
+    - Added error messages when the directory stack
+    - Added PushDirectory and PushDirectory functionality to JShell
+
+What do I plan to work in the next three days?
+    - Test List using files
+    - Base code for EchoAppend
+    - Manipulating files when there's no given file
+    - Add more specific command errors
+
+Am I blocked on anything?
+    - Need a way to create files so I can test if the functions work with them

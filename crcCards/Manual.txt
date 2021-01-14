@@ -1,0 +1,24 @@
+Class name: Manual
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): 
+
+
+Responsibilities:
+*Prints the documentations for the command specified by user. 
+
+*Redirects the documentations for the command that is supposed to printed to the
+ content of a file.
+
+
+Collaborators:
+*JShell
+*Output
+*CurrentDirectory
+*Directory
+*Redirection
+*UserInput

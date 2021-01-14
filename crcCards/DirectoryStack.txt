@@ -1,0 +1,15 @@
+Class name: DirectoryStack
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Contains all the saved current directories.
+
+
+Collaborators: 
+*CurrentDirectory 

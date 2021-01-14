@@ -1,0 +1,55 @@
+//Sprint 1 Backlog.  
+October 21 to October 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) 1 - As a user, I can input any commands I want (valid or invalid) and get a message prompted back.
+b) 2 - As a user, I am free use as many excess whitespace for valid commands and still function normally.
+c) 3 - As a user, I can exit the program if I want to stop using it at any moment.
+d) 4 - As a user, I can create two folders given the relative or full path so I can organize my current and future files on my system.
+e) 5 - As a user, I should not be able to create a directory if there is an existing one.
+f) 6 - As a user, I should receive specific errors if I give an invalid directory.
+g) 7 - As a user, I can change my directory given the relative or full path so I can do other commands in a different part of my system.
+h) 8 - As a user, I should not be able to only input one directory.
+i) 9 - As a user, I will be able to view a list with all the contents in my current directory so I can see if the file I want is there or not.
+j) 10 - As a user, I will be able to view a list with all the contents in a given directory so I can see if the file I want is there or not.
+k) 11 - As a user, I want to be able to see what directory I am currently so I can navigate to my destination directory.
+l) 12 - As a user, I should be able to access different directories without needing the full path.
+m) Create CRC Cards
+
+Specific tasks to be accomplished:
+a-1. (Commands) Begin coding the structure of retrieving user input
+a-2. (Commands) Have specific prompts to tell the user whether or not their input was valid
+b-1. (Commands) Allow the user to input as much whitespace as they desire
+c-1. (JShell) Have the shell exit on user command
+d-1. (Directory) Write or refine the base code for the Directory class
+d-2. (MakeDirectory) Write the base code for the MakeDirectory class
+d-3. (MakeDirectory) Write the methods in order to allow the user to create two folders
+e-1. (MakeDirectory) Write the code that validates if a directory already exists
+f-1. (MakeDirectory) Have specific prompts to tell the user whether or not the directory was valid
+g-1. (Directory) Write or refine the base code for the Directory class
+g-2. (ChangeDirectory) Write the base code for the ChangeDirectory class
+g-3. (ChangeDirectory) Write the methods that changes the current directory of the user
+h-1. (ChangeDirectory) Write the code that validates if there is only one input directory
+i-1. (List) Write the base code for the List class
+i-2. (List) Write the method that allows the user to display the contents of the current directory
+j-1. (List) Write the method that allows the user display the contents of a given directory
+k-1. (Directory) Write or refine the base code for the Directory class
+k-2. (PrintWorkingDirectory) Write the base code for the PrintWorkingDirectory class
+k-3. (PrintWorkingDirectory) Write the method that allows the user to see the current directory
+l-1. (Commands) Write the code that enables the user to use relative paths for their commands
+
+
+These tasks are assigned as follows:
+
+User: Ka Fai Yuen
+Tasks: a, b, c, m
+
+User: Brandon Ho Lun Lo
+Tasks: d, e, f
+
+User: Tanzim Ahmed
+Tasks: g, h, l
+
+User: Jahin Sadid Promit
+Tasks: i, j, k

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Added error checking for valid directory/file names when making new directories
+    - Added output prompts for invalid directory/file names and paths when making new directories
+    - Finished creating the PushDirectory class
+
+What do I plan to work on in the next three days?
+    - Discuss with group members on how to incorportate PushDirectory and PopDirectory together
+    - Run test cases and debug any errors
+    - Add error prompts when necessary
+    - Test PushDirectory and PopDirectory functionality
+
+Am I blocked on anything?
+    - Need PopDirectory to be completed to test the functionality of PushDirectory

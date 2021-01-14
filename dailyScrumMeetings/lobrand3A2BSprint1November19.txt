@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - Completed the Remove class for rm functionality
+    - Modified the MakeDirectory class to enable for multiple directories to be MakeDirectory
+    - Modified the List class to enable the optional parameter of -R which recursively lists the sub-directories
+    - Modified JShell to incorporate the rm command in the HashMap
+    - Designed and implemented ways to redirect commands using STDOUT
+    - Fixed bugs within the Echo class
+
+What do I plan to work on in the next three days?
+    - JUnit testing for commands
+    - Updating CRC cards
+    - Assisting team members with their tasks
+
+Am I blocked on anything?
+    - None as of yet

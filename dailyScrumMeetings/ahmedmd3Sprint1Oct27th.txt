@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Finished the makePossiblePath function in PathHandler that I used to complete the ChangeDirectory Class
+    - Created a simplifyPath function for makePossiblePath so that it simplifies any path that the user input, such as removing all ".."s and "." and applying their properties on the path
+    - Worked on the UserInput class and made it possible for us to split the Command portion of the user input from the Parameters of the user input, and I made it possible for Users to input quotes to indicate spaces between names
+
+What do I plan to work in the next three days?
+    - Upgrade/Update the UserInput class so that users have restrictions on the names they can input such as not allowing users to input open quotes or double slashes
+    - Work on Sprint 2
+
+Am I blocked on anything?
+    - Not blocked yet

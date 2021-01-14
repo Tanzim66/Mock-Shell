@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed the base code for the Copy class
+    - Created and completed the CRC card for the Copy class
+
+What do I plan to work on in the next three days?
+	- Update the Copy class and test run it to see if there are bugs
+    - Create methods in the Output class specifically for printing error messages for the Copy class
+    - Create CRC cards for other classes
+
+Am I blocked on anything?
+    - Not yet

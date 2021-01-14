@@ -1,0 +1,32 @@
+Class name: Echo
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*If file is not specified, it prints the given string. 
+
+*If file does not exist, it creates a new file containing the given string as 
+ its content.
+
+*If file exists and user requests to append to the file content, it appends 
+ the given string to the content of that file.
+	  
+*If file exists and user requests to overwrite the file content, it replaces 
+ the file content with the given string.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*JShell
+*Output
+*Redirection
+*UserInput
+
+

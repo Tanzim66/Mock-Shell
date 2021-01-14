@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - brainstormed design ideas with team to create CRC cards
+    - initialized all class files based on CRC card design
+    - wrote the base code for the Directory class and MakeDirectory class
+
+What do I plan to work on in the next three days?
+    - make sure that the Directory class is complete for use
+    - complete the methods for the MakeDirectory class
+    - provide prompt messages for any invalid user input
+    - ensure that the MakeDirectory class is functional
+
+Am I blocked on anything?
+    - Need Directory class to be complete before functionality can occur
+    - May need Command class methods completed to provide error prompts

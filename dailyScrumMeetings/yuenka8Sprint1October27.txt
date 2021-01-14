@@ -1,0 +1,13 @@
+What did I work on in the last three days? 
+	- Completed CRC cards for all classes
+	- Added JavaDoc to all classes
+	- Worked on Output and List 
+	- Completed Exit class
+
+What do I plan to work in the next three days?
+	- Start and finish the History class
+	- Update CRC cards if necessary
+	
+
+Am I blocked on anything?  
+	- No

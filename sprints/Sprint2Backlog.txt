@@ -1,0 +1,45 @@
+//Sprint 2 Backlog.  
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) 18 - As a user, I can save the current directory so that I can revisit it later on if necessary, and then access a given directory.
+b) 19 - As a user, I can access all my saved directories, starting from the most recently saved to oldest ones.
+c) 20 - As a user, if I attempt to access my previously saved directories and there are none, I should receive a proper error message.
+d) 21 - As a user, I want to view all the commands I have typed in the past, including any syntactical errors I have made, in an ordered and numbered manner starting from the oldest.
+e) 22 - As a user, I would like to access a desired number of commands that I have typed in the past, including any syntactical errors I have made, in an ordered and numbered manner starting from the oldest.
+f) 23 - As a user, I would like to be able to see the contents of a file listed in the program.
+g) 24 - As a user, I find it convenient to be able to see the contents of multiple files listed in the program separated by 3 spaces.
+h) 25 - As a user, I should not be able to input an empty file name.
+i) 26 - As a user, I find it convenient the program notifies me which files do not exist, but shows contents of the files that do.
+
+Specific tasks to be accomplished:
+a-1. (PushDirectory) Begin by creating base code for the PushDirectory class
+a-2. (PushDirectory) Finish the code that allows the user to save the current directory and then access a given directory at the same time
+b-1. (PopDirectory) Begin by creating base code for PopDirectory class
+b-2. (PopDirectory) Finish the code that allows the user to go back to the previously saved directory, from most recent, to the oldest
+c-1. (Output) Output an error message if saved directories do not exist when trying to call the function
+d-1. (History) Begin by creating base code for the History class
+d-2. (History) Finish the code that allows the user to view the commands typed in the past, starting from oldest to most recent
+e-1. (History) Finish the code which allows the user to choose how many commands that the user typed in the past
+f-1. (Concatenate) Begin by creating base code for Concatenate class
+f-2. (Concatenate) Finish the code that allows the user to view the contents of a given file
+g-1. (Concatenate) Finish the code which allows the user to input two files and concatenate them while displaying it with three line breaks
+h-1. (Concatenate) Write code which validates that the input is valid and not an empty file
+i-1. (Output) Complete the code which prompts the user if the file does not exist
+i-2. (Concatenate) Finish the code which allows the user to display contents of the files which do exist and ignore the ones which do not
+
+
+These tasks are assigned as follows:
+
+User: Ka Fai Yuen
+Tasks: d, e
+
+User: Brandon Ho Lun Lo
+Tasks: a
+
+User: Tanzim Ahmed
+Tasks: f, g, h, i
+
+User: Jahin Sadid Promit
+Tasks: b, c

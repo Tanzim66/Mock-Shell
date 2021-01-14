@@ -1,0 +1,24 @@
+Class name: PushDirectory
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Saves current working directory by pushing it onto the directory stack.
+
+*Changes current working directory to another directory.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*DirectoryStack
+*JShell
+*PathHandler
+*Output
+

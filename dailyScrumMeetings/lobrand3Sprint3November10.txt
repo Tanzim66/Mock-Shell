@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Redesigned the file management system (PathHandler) to allow for better error checking and easier use of the class
+    - Created a HashMap inside of JShell for a better design when calling commands instead of using a switch statement
+    - Edited, modified, and tested every command class to use and integrate the new PathHandler methods
+    - Used the Singleton Design Pattern to incorporate only one file system for our JShell
+
+What do I plan to work on in the next three days?
+    - JShell is finished and ready to be deployed
+
+Am I blocked on anything?
+    - None

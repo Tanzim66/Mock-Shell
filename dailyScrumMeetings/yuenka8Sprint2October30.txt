@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+	- Completed the base code for History class
+	- Added methods to the Output class and UserInput class
+	- Updated JavaDoc for several classes
+
+What do I plan to work in the next three days?
+	- Update History class for higher efficiency 
+	- Apply History class to JShell so it can be used by users
+	- Update JavaDoc for all classes
+	- Update CRC cards if necessary
+	
+
+Am I blocked on anything?  
+	- No

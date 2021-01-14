@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Finished saveJShell
+    - Finished loadJShell
+What do I plan to work in the next three days?
+    - Clean up the code so it's not messy
+    - JUnit testing
+
+Am I blocked on anything?
+    - N/A

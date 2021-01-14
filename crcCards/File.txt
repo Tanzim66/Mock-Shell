@@ -1,0 +1,16 @@
+Class name: File
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Contains file information including file name and content.
+
+
+Collaborators: None
+
+

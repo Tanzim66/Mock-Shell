@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished the Concatenate class
+    - Added error messages associated with Concatenate class such as when the file does not exist
+    - Added feature for user to input multiple files
+    - Added feature for concatenate to display multiple file contents and printing error when a file inputed does not exist
+    - Edited makePossiblePath in PathHandler class to make sure it works properly (added error messages with conditions that makePossiblePath will fail)
+
+What do I plan to work in the next three days?
+    - Sprint 3
+    - Work on error messages and test cases
+
+Am I blocked on anything?
+    - Not blocked yet

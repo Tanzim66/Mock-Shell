@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - EchoAppend skeleton code
+    - EchoAppend brainstorming design with group
+    - Thinking how to incorporate hash maps rather than switches
+
+What do I plan to work in the next three days?
+    - Hopefully finish EchoAppend
+    - Redesign JShell so its better for extending
+
+Am I blocked on anything?
+    - Not at the moment.

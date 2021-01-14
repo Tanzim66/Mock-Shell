@@ -1,0 +1,16 @@
+Class name: Output
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Prints any text and error messages. 
+
+
+Collaborators: 
+*CurrentDirectory
+

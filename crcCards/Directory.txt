@@ -1,0 +1,17 @@
+Class name: Directory
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Contains directory paths and files.
+
+
+Collaborators: 
+*File
+
+

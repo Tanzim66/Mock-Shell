@@ -1,0 +1,20 @@
+Class name: ChangeDirectory
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Changes current working directory to another directory.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*JShell
+*Output
+*PathHandler

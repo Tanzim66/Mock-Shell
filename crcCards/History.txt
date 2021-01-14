@@ -1,0 +1,29 @@
+Class name: History
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Prints out a given number of most recent number of commands including invalid 
+ inputs.
+ 
+*If a number is not given, it prints all recent commands including invalid 
+ inputs. 
+ 
+*Redirects the recent commands that are supposed to be printed to the content of 
+ a file.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*UserInputList
+*JShell
+*Output
+*Redirection
+*UserInput

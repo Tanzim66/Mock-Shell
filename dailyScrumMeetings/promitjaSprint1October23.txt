@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Created Skeleton Code for List
+    - Brainstormed the connections for List and Directory using CRC Cards
+
+What do I plan to work in the next three days?
+    - Figure out the format of displaying the files and contents
+    - Distinguish between relative and full path
+
+Am I blocked on anything?
+    - Need Commands, Output, File to be somewhat finished so I can continue connecting them.

@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - Discussed with group members on how to implement PushDirectory and PopDirectory
+    - Successfully completed PushDirectory and PopDirectory functionality
+    - Added new commands to JShell
+    - Added error prompts for invalid inputs (for commands and MakeDirectory)
+    - Create sprint backlog for last sprint
+
+What do I plan to work on in the next three days?
+    - Work on new class for sprint 3
+        - discuss with group members about the design of the Echo command
+        - start and finish EchoOverwrite class
+        - create error prompts corresponding to the EchoOverwrite class
+        - add functionality to JShell
+
+Am I blocked on anything?
+    - None

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Fixed a bug for cd associated with makePossiblePath in Path Handler class and then edited other function to accomodate for the change in makePossiblePath
+    - brain stormed for the Concatenate function that I will be completing in the next 3 days
+
+What do I plan to work in the next three days?
+    - finish the Concatenate Class
+    - Work on error messages and test cases
+
+Am I blocked on anything?
+    - Not blocked yet

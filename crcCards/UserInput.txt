@@ -1,0 +1,17 @@
+Class name: UserInput
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Obtains and processes all the user inputs.
+
+*Checks if user inputs are valid. 
+
+
+Collaborators:
+*UserInputList

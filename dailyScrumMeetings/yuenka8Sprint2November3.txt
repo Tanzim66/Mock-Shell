@@ -1,0 +1,14 @@
+What did I work on in the last three days? 
+	- Updated History and UserInput classes 
+	- Applied History to the JShell class so that it can be used by users
+	- Updated multiple CRC cards
+	- Updated JavaDoc for several classes
+
+What do I plan to work in the next three days?
+	- Start working on EchoOverwrite
+	- Add in line comments and documentations for classes
+	- Update CRC cards if necessary
+	
+
+Am I blocked on anything?  
+	- No

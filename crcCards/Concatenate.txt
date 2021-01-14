@@ -1,0 +1,27 @@
+Class name: Concatenate
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Displays the contents of one or more files.
+
+*Redirects the contents of files that are supposed to be printed to the content 
+ of a specific file.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File
+*JShell
+*Output
+*PathHandler
+*Redirection
+*UserInput
+

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Base code for Move class
+    - Created the plan for the Move class, fully commented on how everything is going to work
+    - Added error messages in relation to the Move class
+    - Integrated Move command to the JShell
+What do I plan to work in the next three days?
+    - Create function to move Directory with its child directories
+    - Create function to check if a directory is a child of another
+    - Finish Move Class
+
+Am I blocked on anything?
+    - If copy is completed, I can use parts of that code rather than duplicating code

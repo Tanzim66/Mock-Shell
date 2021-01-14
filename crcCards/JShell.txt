@@ -1,0 +1,26 @@
+Class name: JShell
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Runs the program.
+
+*Stores data and information.
+
+*Executes all given commands. 
+
+
+Collaborators:
+*Commands
+*CurrentDirectory
+*Directory
+*DirectoryStack
+*UserInputList
+*FileSystem
+*Output
+*UserInput

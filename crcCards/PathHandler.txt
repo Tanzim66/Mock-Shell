@@ -1,0 +1,19 @@
+Class name: PathHandler
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Handles paths between directories and files.
+
+*Locates directories and files from paths.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File 

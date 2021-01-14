@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Completed redirect for pwd
+    - Completed redirect for man
+    - Re-designed Echo so that the redirection is easily accessible by other commands by making a Redirection class
+    - Re-designed man, history and Concatenate so that the executeCommand function's purpose is to mainly take care of user input
+
+What do I plan to work on in the next three days?
+    - continue to add redirect to all STDOUT commands that are yet to be implemented
+
+Am I blocked on anything?
+    - Having difficulties with redesigning List to fit redirection since the code is a little complicated

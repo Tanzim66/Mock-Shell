@@ -1,0 +1,18 @@
+Class name: FileSystem
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Stores the root directory in the file system. 
+
+
+Collaborators:
+*Directory
+
+
+not finished

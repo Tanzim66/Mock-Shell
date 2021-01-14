@@ -1,0 +1,35 @@
+//Sprint 2 Backlog.  
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) 27 - As a user, I can change the content of a file to a string I input if I specify a file that exists in my current directory.
+b) 28 - As a user, I can append a string I input in a new line to the content of a file if I specify a file that exists in my current directory.
+c) 29 - As a user, I can create a new file named as the file name I specify containing the string I input if the file I specify does not exist in my current directory.
+d) 30 - As a user, I should get the string that I enter as an input prompted back if I do not specify a file to modify.
+
+Specific tasks to be accomplished:
+a-1. (EchoOverwrite) Begin by creating the base code for EchoOverwrite
+a-2. (EchoOverwrite) Write the code which allows the user to successfully overwrite the contents of a file given a string if it exists
+b-1. (EchoAppend) Begin by creating the base code for EchoAppend
+b-2. (EchoAppend) Write the code which allows the user to successfully append a given string to the contents of a file if it exists
+c-1. (EchoAppend/EchoOverwrite) Write the code which allows the user to create a new file if the file specified does not exist
+d-1. (EchoAppend/EchoOverwrite) Write the code prints a given string if there is no given file from the user
+e-1. (File) Write or modify the code necessary to handle file contents
+f-1. (CRC) Edit or modify CRC cards to match current design
+g-1. (Output) Add or modify any new or existing errors
+
+
+These tasks are assigned as follows:
+
+User: Ka Fai Yuen
+Tasks: a, c, d, f
+
+User: Brandon Ho Lun Lo
+Tasks: b, c, d, e, g
+
+User: Tanzim Ahmed
+Tasks: a, c, d, e, g
+
+User: Jahin Sadid Promit
+Tasks: b, c, d, e, g

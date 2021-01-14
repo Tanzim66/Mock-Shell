@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Completed the CURL class
+    - Implemented redirection for List class
+    - Added additional error outputs
+
+What do I plan to work on in the next three days?
+    - JUnit testing
+    - Adding JavaDoc to classes and methods
+    - Debugging any existing code
+
+Am I blocked on anything?
+    - None

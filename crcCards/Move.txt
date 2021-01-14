@@ -1,0 +1,33 @@
+Class name: Move
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Moves a file to an existing directory.
+
+*Moves a directory along with its child to another existing directory.
+
+*Moves a directory to a new directory by renaming the directory it is moving to 
+ the name of the new directory.
+
+*Moves a file to another existing file by overwriting it with the file it is 
+ moving.
+
+*Moves a file to a new file renaming the file it is moving to the name of the 
+ new file.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File
+*JShell
+*Output
+*PathHandler
+

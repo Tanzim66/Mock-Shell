@@ -1,0 +1,30 @@
+Class name: Copy
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Copies a file to an existing directory.
+
+*Copies a directory along with its child to another existing directory.
+
+*Copies a file to another existing file by overwriting its content with the 
+ content of the file it is copying.
+
+*Copies a file to a new file by creating a new file containing the content of 
+ the file it is copying.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*File
+*JShell
+*Output
+*PathHandler
+

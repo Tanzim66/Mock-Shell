@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Added more general errors to Output
+    - Cleaned up Output parameters
+
+What do I plan to work in the next three days?
+    - Complete Skeleton code for PopDirectory (minimum)
+    - Saved directory error message
+
+Am I blocked on anything?
+    - No, the related functions are all working accordingly

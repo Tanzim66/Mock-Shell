@@ -1,0 +1,36 @@
+Class name: Commands
+
+
+Parent class (if any): None
+
+
+Subclasses (if any):
+*ChangeDirectory
+*Concatenate
+*Echo
+*Exit
+*File
+*History
+*List
+*MakeDirectory
+*Manual
+*PopDirectory
+*PrintWorkingDirectory
+*PushDirectory
+*Remove
+*Move
+*Copy
+*Curl
+*SaveJShell
+*LoadJShell
+*Search
+*Tree
+
+
+Responsibilities:
+*Obtains user input as well as informations stored in JShell that are essential 
+ for executing commands. 
+
+
+Collaborators: 
+*JShell

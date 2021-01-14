@@ -1,0 +1,21 @@
+Class name: LoadJShell
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Loads previous shell session that is saved in a file on the user's computer.
+
+*Prints an error message if user tries to load a previous shell session after 
+ running some commands.
+
+
+Collaborators:
+*JShell
+*Output
+

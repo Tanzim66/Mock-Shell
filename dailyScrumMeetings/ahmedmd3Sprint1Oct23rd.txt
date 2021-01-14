@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Familiarized myself with the new CRC Design for the program.
+    - brain stormed and tried out different approaches to creating a ChangeDirectory class that changes edits the current directory the user is on.
+
+What do I plan to work in the next three days?
+    - finish the ChangeDirectory Class
+    - Word on Directory Class
+
+Am I blocked on anything?
+    - Not blocked yet

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Completed and tested the Copy class
+    - Created helper methods in Copy that will be used by Move 
+    - Added JavaDoc and in line comments to the Copy class
+    - Added methods in Output class that print error messages for Copy
+
+What do I plan to work on in the next three days?
+	- Start working on the Tree class
+	- Begin with JUnit testing 
+	- Add JavaDoc to methods in the Output class
+
+Am I blocked on anything?
+    - Not at the moment

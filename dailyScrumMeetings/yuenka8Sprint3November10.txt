@@ -1,0 +1,11 @@
+What did I work on in the last three days? 
+	- Edited and created methods for mainly Echo, Output, and UserInput class
+	- Updated JavaDoc and added in line comments for all classes 
+	- Tested the program to make sure all commands work
+	- Completed CRC cards for all classes 
+
+What do I plan to work in the next three days?
+	- Nothing. JShell is completed and the assignment will be due.
+
+Am I blocked on anything?  
+	- No

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Completed the Tree class
+    - Added Redirection to the Tree class
+    - Added JavaDoc to several classes
+
+What do I plan to work on in the next three days?
+    - Test the Tree command to check for any errors
+    - Create CRC cards for new classes
+    - Add JavaDoc to classes and methods
+
+Am I blocked on anything?
+    - No
+    
+    

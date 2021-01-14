@@ -1,0 +1,15 @@
+Class name: UserInputList
+
+
+Parent class (if any): None
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Contains all recent user inputs.
+
+
+Collaborators: None
+

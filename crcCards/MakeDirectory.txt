@@ -1,0 +1,22 @@
+Class name: MakeDirectory
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Creates as many directories as user specifies until it hits the first invalid 
+ argument.
+
+
+Collaborators:
+*CurrentDirectory
+*Directory
+*JShell
+*PathHandler
+*Output
+

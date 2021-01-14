@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Completed search command
+    - Added restriction on man so that man only takes one command at a time
+    - Added redirection to search command
+    
+
+What do I plan to work on in the next three days?
+    - continue to add redirect to all STDOUT commands that are yet to be implemented (such as tree)
+    - Add restrictions on search so that the expression accepted by it is surrounded by quotes
+
+Am I blocked on anything?
+    - Having difficulties with dealing with user input when trying to separate by space but leave spaces inside quotes untouched.

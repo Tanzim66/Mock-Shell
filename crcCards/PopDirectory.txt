@@ -1,0 +1,24 @@
+Class name: PopDirectory
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Removes the top directory from the directory stack.
+
+*Makes the directory removed from stack the current working directory.
+
+*Prints an error message if the directory stack is empty. 
+
+
+Collaborators:
+*CurrentDirectory
+*DirectoryStack
+*JShell
+*Output
+

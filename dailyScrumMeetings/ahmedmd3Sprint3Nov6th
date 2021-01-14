@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Planning to redesign crc/classes after recieving advice from demo
+    - Changed the structure of classes so that they include their own error messages related to their requirem parameters inside their own classes
+
+What do I plan to work in the next three days?
+    - update crc cards with a new design and implement it
+    - Work on error messages and test cases
+
+Am I blocked on anything?
+    - Not blocked yet

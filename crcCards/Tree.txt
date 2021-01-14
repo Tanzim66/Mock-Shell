@@ -1,0 +1,25 @@
+Class name: Tree
+
+
+Parent class (if any): 
+*Commands
+
+
+Subclasses (if any): None
+
+
+Responsibilities:
+*Displays the entire file system as a tree diagram starting from the root 
+ directory.
+
+*Redirects the tree diagram to the content of a file. 
+
+
+Collaborators:
+*UserInput
+*Redirection
+*CurrentDirectory
+*Directory
+*File
+*JShell
+*Output
